@@ -19,16 +19,16 @@ app.get('/api/customers', (req, res) => {
         {
             'id':2,
             'image': 'http://placeimg.com/64/64/2',
-            'name' : 'Noah Valiquette',
+            'name' : 'Sieun Lee',
             'birthday' : '960212',
-            'gender' : 'male',
+            'gender' : 'female',
             'job' : 'student'
         },{
             'id':3,
             'image': 'http://placeimg.com/64/64/3',
-            'name' : 'Justine Ransom',
+            'name' : 'Dahee Lim',
             'birthday' : '900123',
-            'gender' : 'male',
+            'gender' : 'female',
             'job' : 'designer'
         }
     ]);
